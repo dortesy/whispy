@@ -1,4 +1,4 @@
-# Whispy - Voice-to-Text for Hyprland
+# Whispy - AI Voice-to-Text for Hyprland
 
 A professional voice-to-text system optimized for Arch Linux with Hyprland, featuring real-time recording, AI-powered transcription, and intelligent text improvement using KIMI K2.
 
