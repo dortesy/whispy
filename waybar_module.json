@@ -1,0 +1,11 @@
+{
+  "custom/whispy": {
+    "exec": "/home/dortes/projects/whispy/env/bin/python /home/dortes/projects/whispy/voice_recorder.py --status",
+    "exec-if": "test -f ~/.whispy_waybar",
+    "return-type": "json",
+    "interval": 1,
+    "format": "{}",
+    "on-click": "/home/dortes/projects/whispy/env/bin/python /home/dortes/projects/whispy/voice_recorder.py",
+    "tooltip": true
+  }
+}
